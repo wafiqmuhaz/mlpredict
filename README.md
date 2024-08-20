@@ -71,7 +71,7 @@ Kotlin is a programming language that makes coding concise, cross-platform, and 
 |    Branch Name     |                                      Branch Link                                                                    |
 | :----------------: | :-----------------------------------------------------------------------------------------------------------------: |
 | Mobile Development | [MD Branch](https://github.com/wafiqmuhaz/starter-project)                                                          |
-|  Tensorflow        | [.tflite](https://github.com/wafiqmuhaz/starter-project/blob/main/app/src/main/assets/cancer_classification.tflite) |
+|  Tensorflow        | [.tflite](https://github.com/wafiqmuhaz/starter-project/raw/main/app/src/main/assets/cancer_classification.tflite) |
 
 
 ## UI/UX Design
