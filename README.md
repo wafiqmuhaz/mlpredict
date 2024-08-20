@@ -83,4 +83,4 @@ Kotlin is a programming language that makes coding concise, cross-platform, and 
 ## Deployment Link APK
 
 Download Link APK:<br>
-[Wafiq Muhaz (Website)](wafiqmuhaz.netlify.app)
+[Wafiq Muhaz (Website)](https://wafiqmuhaz.netlify.app/)
